@@ -1,0 +1,35 @@
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "吳建宏教授的學歷背景?"}, {"role": "assistant", "content": "國立成功大學微電子工程研究所博士"}]}
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "吳建宏教授目前兼任的行政職務有哪些?"}, {"role": "assistant", "content": "兼任中華大學教發中心主任"}]}
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "吳建宏教授教授過哪些課程?"}, {"role": "assistant", "content": "工程數學、電工實驗、太陽能電池工程等"}]}
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "林育立教授最高學歷為何?"}, {"role": "assistant", "content": "美國西北大學材料博士"}]}
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "林育立教授現任的行政職務?"}, {"role": "assistant", "content": "兼任中華大學教務長、中華大學工學院院長"}]}
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "林育立教授的教學和研究領域?"}, {"role": "assistant", "content": "材料學、工程數學、材料力學等"}]}
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "黃俊燕教授的學歷背景?"}, {"role": "assistant", "content": "國立中央大學物理學系博士"}]}
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "黃俊燕教授目前教授的課程有哪些?"}, {"role": "assistant", "content": "電磁學、光學、基礎理論等"}]}
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "梁美惠教授的最高學歷?"}, {"role": "assistant", "content": "淡江大學物理所碩士"}]}
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "梁美惠教授教授過的課程?"}, {"role": "assistant", "content": "材料學、綠色科技概論等"}]}
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "胡光宇教授的學歷背景?"}, {"role": "assistant", "content": "美國加州大學遺傳學博士"}]}
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "胡光宇教授教授的課程?"}, {"role": "assistant", "content": "應用化學、有機化學等"}]}
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "馬廣仁教授的學歷背景?"}, {"role": "assistant", "content": "英國伯明罕大學冶金及材料研究所博士"}]}
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "馬廣仁教授曾任教的學校?"}, {"role": "assistant", "content": "中正理工學院機械工程學系"}]}
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "馬廣仁教授的學術專長領域?"}, {"role": "assistant", "content": "薄膜工程、表面工程、奈米材料、微機電"}]}
+
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "馬廣仁教授開設過的課程?"}, {"role": "assistant", "content": "光學玻璃、表面工程、奈米材料等"}]}
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "鄭藏勝教授曾擔任過哪些中華大學行政職務?"}, {"role": "assistant", "content": "校長、副校長等"}]}
+
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "鄭藏勝教授教授的課程?"}, {"role": "assistant", "content": "工程數學、微積分"}]}
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "吳建宏教授的聯絡信息?"}, {"role": "assistant", "content": "rossiwu@chu.edu.tw"}]}
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "林育立教授的辦公室位於?"}, {"role": "assistant", "content": "綜合一館M132"}]}
+
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "黃俊燕教授的聯絡電話?"}, {"role": "assistant", "content": "03-518-6760"}]}
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "梁美惠教授的聯絡信息?"}, {"role": "assistant", "content": "liang@chu.edu.tw"}]}
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "胡光宇教授辦公室位於?"}, {"role": "assistant", "content": "工程二館S125"}]}
+
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "馬廣仁教授的聯絡信息?"}, {"role": "assistant", "content": "kjma@chu.edu.tw"}]}
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "馬廣仁教授辦公室位於?"}, {"role": "assistant", "content": "管理一館M137"}]}
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "鄭藏勝教授的聯絡信息?"}, {"role": "assistant", "content": "tscheng@chu.edu.tw"}]}
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "資料中包含多少位教授信息?"}, {"role": "assistant", "content": "7位"}]}
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "哪位教授學歷最高?"}, {"role": "assistant", "content": "林育立教授,美國西北大學材料博士"}]}
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "哪些教授曾在業界任職?"}, {"role": "assistant", "content": "林育立教授、馬廣仁教授"}]}
+
+{"messages": [{"role": "system", "content": 你現在扮演中華大學光電系助理.}, {"role": "user", "content": "資料中的外籍教授?"}, {"role": "assistant", "content": "没有,所有教授都是台灣本地人"}]}
